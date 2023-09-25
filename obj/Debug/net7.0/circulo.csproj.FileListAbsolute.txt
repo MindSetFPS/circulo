@@ -1,0 +1,15 @@
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\bin\Debug\net7.0\circulo.exe
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\bin\Debug\net7.0\circulo.deps.json
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\bin\Debug\net7.0\circulo.runtimeconfig.json
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\bin\Debug\net7.0\circulo.dll
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\bin\Debug\net7.0\circulo.pdb
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\obj\Debug\net7.0\circulo.csproj.AssemblyReference.cache
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\obj\Debug\net7.0\circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\obj\Debug\net7.0\circulo.AssemblyInfoInputs.cache
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\obj\Debug\net7.0\circulo.AssemblyInfo.cs
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\obj\Debug\net7.0\circulo.csproj.CoreCompileInputs.cache
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\obj\Debug\net7.0\circulo.dll
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\obj\Debug\net7.0\refint\circulo.dll
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\obj\Debug\net7.0\circulo.pdb
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\obj\Debug\net7.0\circulo.genruntimeconfig.cache
+C:\Users\Pepin\OneDrive - Universidad Tecnológica Metropolitana\UTM\Programacion\circulo\obj\Debug\net7.0\ref\circulo.dll
